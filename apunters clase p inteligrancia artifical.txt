@@ -1,0 +1,40 @@
+
+
+=  ASIGNAR  
+== PREGUNTAR
+=! DIFERENTE
+
+
+ROJO VERDE AZUL
+
+bit --255
+
+
+ejemplo
+	razonamiento lógico-matemático 
+es la base de la programacion
+
+
+
+% pregunta el residuo
+/ pregunta el resultado
+
+
+
+// nos da el resultado entero
+/ nos da la division normal
+
+f-string
+
+
+corchete indica q e suna bariable dentro del print, reconoce formula 
+variable operacion matematica.
+
+
+else if
+elif
+
+la funcion sirve para reutilizar o reciclar segmentos de codigo
+con la funcion def
+
+y el nombre de la funcion def, 
